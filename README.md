@@ -1,2 +1,3 @@
 # iMixer
  
+Copyright ISOSTUDIOS INC

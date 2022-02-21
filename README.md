@@ -1,4 +1,2 @@
 # iMixer
- 
-Copyright ISOSTUDIOS INC
-Create your own music mix and mint a NEAR NFT!
+Create your own music mix and mint a NEAR NFT!   Copyright ISOSTUDIOS INC
